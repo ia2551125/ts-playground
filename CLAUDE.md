@@ -36,7 +36,7 @@ TypeScript・Claude Code・AWS（CDK）のキャッチアップを目的とし�
 
 ### 週末（9/26〜9/27）：環境づくり
 - [ ] gh、Node.js、Claude Code のセットアップ
-- [ ] リポジトリ作成と初回push
+- [x] リポジトリ作成と初回push
 - [ ] AWS：作業用ユーザーの用意、AWS Budgets の予算アラート設定
 
 ### 1週目（9/28〜10/4）：TypeScriptの基礎
