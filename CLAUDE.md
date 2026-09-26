@@ -35,7 +35,7 @@ TypeScript・Claude Code・AWS（CDK）のキャッチアップを目的とし�
 ## 学習スケジュール
 
 ### 週末（9/26〜9/27）：環境づくり
-- [ ] gh、Node.js、Claude Code のセットアップ
+- [x] gh、Node.js、Claude Code のセットアップ
 - [x] リポジトリ作成と初回push
 - [ ] AWS：作業用ユーザーの用意、AWS Budgets の予算アラート設定
 
